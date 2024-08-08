@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nocode_frontend_figma/static/css/main.c97b3ba8.css",
+    "main.js": "/nocode_frontend_figma/static/js/main.1b93b10c.js",
+    "static/media/ContactBackground.png": "/nocode_frontend_figma/static/media/ContactBackground.e67b0403d4aa6b19d845.png",
+    "static/media/Mask.png": "/nocode_frontend_figma/static/media/Mask.0c125b244fe661f9a4cb.png",
+    "static/media/Background.png": "/nocode_frontend_figma/static/media/Background.249a7bb73ab27dc535b4.png",
+    "static/media/showcase2.png": "/nocode_frontend_figma/static/media/showcase2.b0f3c91f56d409243d8c.png",
+    "static/media/Image.png": "/nocode_frontend_figma/static/media/Image.929e6cd1680741ed92da.png",
+    "static/media/showcase1.png": "/nocode_frontend_figma/static/media/showcase1.abd6cf987a4e509d3029.png",
+    "static/media/showcase4.png": "/nocode_frontend_figma/static/media/showcase4.861622f1dccf0ecc49e1.png",
+    "static/media/Imag.png": "/nocode_frontend_figma/static/media/Imag.7f90189190adf9c1e784.png",
+    "static/media/showcase3.png": "/nocode_frontend_figma/static/media/showcase3.1bc5f6aea03bee1f6216.png",
+    "static/media/Mockup.png": "/nocode_frontend_figma/static/media/Mockup.7b7bd543b1ab77b155fc.png",
+    "static/media/Userpic_2.png": "/nocode_frontend_figma/static/media/Userpic_2.cda41408a7c15f087720.png",
+    "static/media/Userpic_0.png": "/nocode_frontend_figma/static/media/Userpic_0.42366efd8a08e9d6069e.png",
+    "static/media/Userpic_1.png": "/nocode_frontend_figma/static/media/Userpic_1.b01728b27da1a36f14e5.png",
+    "index.html": "/nocode_frontend_figma/index.html",
+    "main.c97b3ba8.css.map": "/nocode_frontend_figma/static/css/main.c97b3ba8.css.map",
+    "main.1b93b10c.js.map": "/nocode_frontend_figma/static/js/main.1b93b10c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97b3ba8.css",
+    "static/js/main.1b93b10c.js"
+  ]
+}
